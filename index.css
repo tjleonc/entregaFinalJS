@@ -7,7 +7,8 @@ body{
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
-justify-content: center;}
+  justify-content: center;
+}
 
 .tarjeta-producto{
   background-color: var(--color-acento-claro);
@@ -18,6 +19,7 @@ justify-content: center;}
   border-radius: 4px;
   transition: 200ms;
   background-color: #ffff00;
+
 }
 
 .tarjeta-producto:hover{
